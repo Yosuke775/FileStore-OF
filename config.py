@@ -37,7 +37,7 @@ BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/+qAwnfPIm6Wo2ODJl")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
 #--------------------------------------------
 START_PIC = os.environ.get("START_PIC", "https://www.hdwallpapers.in/download/roronoa_zoro_4k_hd_one_piece-HD.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://images.app.goo.gl/x5nWVSs1soKQFQZm9")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://images.app.goo.gl/jaPQWT1v1ZEHwUJGA")
 #--------------------------------------------
 
 #--------------------------------------------
